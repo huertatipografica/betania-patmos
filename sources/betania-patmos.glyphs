@@ -1,6 +1,9 @@
 {
 .appVersion = "3506";
 .formatVersion = 3;
+DisplayStrings = (
+E
+);
 axes = (
 {
 name = Color;
@@ -1655,19 +1658,19 @@ value = 10;
 },
 {
 name = typoAscender;
-value = 1040;
+value = 1038;
 },
 {
 name = typoDescender;
-value = -380;
+value = -262;
 },
 {
 name = typoLineGap;
-value = 60;
+value = 0;
 },
 {
 name = winAscent;
-value = 1040;
+value = 1072;
 },
 {
 name = winDescent;
@@ -1675,15 +1678,15 @@ value = 380;
 },
 {
 name = hheaAscender;
-value = 1040;
+value = 1038;
 },
 {
 name = hheaDescender;
-value = -380;
+value = -262;
 },
 {
 name = hheaLineGap;
-value = 60;
+value = 0;
 },
 {
 name = "Master Color Dark";
@@ -1766,19 +1769,19 @@ value = 10;
 },
 {
 name = typoAscender;
-value = 1040;
+value = 1038;
 },
 {
 name = typoDescender;
-value = -380;
+value = -262;
 },
 {
 name = typoLineGap;
-value = 60;
+value = 0;
 },
 {
 name = winAscent;
-value = 1040;
+value = 1072;
 },
 {
 name = winDescent;
@@ -1786,15 +1789,15 @@ value = 380;
 },
 {
 name = hheaAscender;
-value = 1040;
+value = 1038;
 },
 {
 name = hheaDescender;
-value = -380;
+value = -262;
 },
 {
 name = hheaLineGap;
-value = 60;
+value = 0;
 },
 {
 name = "Master Color";
@@ -1868,19 +1871,19 @@ value = 10;
 },
 {
 name = typoAscender;
-value = 1040;
+value = 1038;
 },
 {
 name = typoDescender;
-value = -380;
+value = -262;
 },
 {
 name = typoLineGap;
-value = 60;
+value = 0;
 },
 {
 name = winAscent;
-value = 1040;
+value = 1072;
 },
 {
 name = winDescent;
@@ -1888,15 +1891,15 @@ value = 380;
 },
 {
 name = hheaAscender;
-value = 1040;
+value = 1038;
 },
 {
 name = hheaDescender;
-value = -380;
+value = -262;
 },
 {
 name = hheaLineGap;
-value = 60;
+value = 0;
 },
 {
 name = "Master Color Dark";
@@ -1975,19 +1978,19 @@ value = 10;
 },
 {
 name = typoAscender;
-value = 1040;
+value = 1038;
 },
 {
 name = typoDescender;
-value = -380;
+value = -262;
 },
 {
 name = typoLineGap;
-value = 60;
+value = 0;
 },
 {
 name = winAscent;
-value = 1040;
+value = 1072;
 },
 {
 name = winDescent;
@@ -1995,15 +1998,15 @@ value = 380;
 },
 {
 name = hheaAscender;
-value = 1040;
+value = 1038;
 },
 {
 name = hheaDescender;
-value = -380;
+value = -262;
 },
 {
 name = hheaLineGap;
-value = 60;
+value = 0;
 },
 {
 name = "Master Color";
@@ -2077,19 +2080,19 @@ value = 10;
 },
 {
 name = typoAscender;
-value = 1040;
+value = 1038;
 },
 {
 name = typoDescender;
-value = -380;
+value = -262;
 },
 {
 name = typoLineGap;
-value = 60;
+value = 0;
 },
 {
 name = winAscent;
-value = 1040;
+value = 1072;
 },
 {
 name = winDescent;
@@ -2097,15 +2100,15 @@ value = 380;
 },
 {
 name = hheaAscender;
-value = 1040;
+value = 1038;
 },
 {
 name = hheaDescender;
-value = -380;
+value = -262;
 },
 {
 name = hheaLineGap;
-value = 60;
+value = 0;
 },
 {
 name = "Master Color";
