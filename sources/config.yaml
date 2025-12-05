@@ -1,5 +1,5 @@
 sources:
-  - BetaniaPatmos.glyphs
+  - betania-patmos.glyphs
 buildVariable: false
 buildStatic: true
 buildTTF: true
@@ -9,7 +9,7 @@ checkCompatibility: false
 interpolate: false
 cleanUp: true
 
-extraFontmakeArgs: --filter "ufostroker::StrokeFilter(Segmentwise=True,Width=60,pre=True,StartCap='circle', EndCap='circle',JoinType='round')"
+#extraFontmakeArgs: --filter "ufostroker::StrokeFilter(Segmentwise=True,Width=60,pre=True,StartCap='circle', EndCap='circle',JoinType='round')"
 
 
 
