@@ -1,6 +1,10 @@
 {
 .appVersion = "3436";
 .formatVersion = 3;
+DisplayStrings = (
+"ñõpa
+nopa"
+);
 axes = (
 {
 name = Color;
@@ -137,12 +141,13 @@ code = "# All base lowercases letters (has unicode + idotaccent), would like to 
 
 # Letters that needs connection from the bottom f g j y z 
 @Bottom=[f $[name beginswith \"f.\"] j $[name beginswith \"j.\"] $[name beginswith \"jdotless\"] g $[name beginswith \"g.\"] y $[name beginswith \"y.\"] z $[name beginswith \"z.\"]];
+
 #rosalie llama a este grupo cv03
 @BottomMedial=[$[name endswith \".from.bottom\"]];
 @BottomFinal=[$[name endswith \".from.bottom.fina\"]];
 
 #este grupo debo agregarlo - letras from middle / o
-@Middle=[ o $[name beginswith \"o.\"] $[name beginswith \"oacute\"] $[name beginswith \"odieresis\"] $[name beginswith \"ograve\"] ];
+@Middle=[ o $[name beginswith \"o.\"] $[name beginswith \"oacute\"] $[name beginswith \"odieresis\"] $[name beginswith \"ograve\"] $[name beginswith \"otilde\"] ];
 @MiddleMedial=[$[name endswith \".from.middle\"]];
 @MiddleFinal=[$[name endswith \".from.middle.fina\"]];
 
