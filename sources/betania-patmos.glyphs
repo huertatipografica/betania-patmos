@@ -2,8 +2,7 @@
 .appVersion = "3507";
 .formatVersion = 3;
 DisplayStrings = (
-"õpq",
-"T/A_N_D Æ/_bucle.ascendente.h/_h.master h"
+"◌"
 );
 axes = (
 {
@@ -133632,9 +133631,31 @@ unicode = 8597;
 },
 {
 glyphname = dottedCircle;
-lastChange = "2025-12-04 18:29:11 +0000";
+lastChange = "2025-12-12 14:26:50 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (424,0);
+},
+{
+name = center;
+pos = (424,354);
+},
+{
+name = ogonek;
+pos = (506,-2);
+},
+{
+name = top;
+pos = (424,775);
+},
+{
+name = top_right;
+pos = (450,775);
+}
+);
 layerId = "6F9C6BB4-2DCF-443B-A55D-9CE049090094";
 shapes = (
 {
@@ -133658,6 +133679,28 @@ nodes = (
 width = 847;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (424,0);
+},
+{
+name = center;
+pos = (424,354);
+},
+{
+name = ogonek;
+pos = (506,-2);
+},
+{
+name = top;
+pos = (424,775);
+},
+{
+name = top_right;
+pos = (450,775);
+}
+);
 layerId = m002;
 shapes = (
 {
@@ -133686,6 +133729,28 @@ scale = (1.6988,1);
 width = 847;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (424,0);
+},
+{
+name = center;
+pos = (424,354);
+},
+{
+name = ogonek;
+pos = (506,-2);
+},
+{
+name = top;
+pos = (424,775);
+},
+{
+name = top_right;
+pos = (450,775);
+}
+);
 layerId = "F3447581-435E-44E2-ABAC-414C89955411";
 shapes = (
 {
@@ -133709,6 +133774,28 @@ nodes = (
 width = 847;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (424,0);
+},
+{
+name = center;
+pos = (424,354);
+},
+{
+name = ogonek;
+pos = (506,-2);
+},
+{
+name = top;
+pos = (424,775);
+},
+{
+name = top_right;
+pos = (450,775);
+}
+);
 layerId = m004;
 shapes = (
 {
@@ -133720,6 +133807,28 @@ scale = (1.6988,1);
 width = 847;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (424,0);
+},
+{
+name = center;
+pos = (424,354);
+},
+{
+name = ogonek;
+pos = (506,-2);
+},
+{
+name = top;
+pos = (424,775);
+},
+{
+name = top_right;
+pos = (450,775);
+}
+);
 layerId = m005;
 shapes = (
 {
