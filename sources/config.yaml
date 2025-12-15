@@ -1,0 +1,19 @@
+sources:
+  - betania-patmos.glyphs
+buildVariable: false
+buildStatic: true
+buildTTF: true
+buildOTF: true
+buildWebfont: true
+checkCompatibility: false
+interpolate: false
+cleanUp: true
+
+#extraFontmakeArgs: --filter "ufostroker::StrokeFilter(Segmentwise=True,Width=60,pre=True,StartCap='circle', EndCap='circle',JoinType='round')"
+
+
+
+
+# removeOutlineOverlaps: false
+# flattenComponents: false
+# decomposeTransformedComponents: false
