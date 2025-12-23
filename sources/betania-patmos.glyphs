@@ -1,11 +1,6 @@
 {
 .appVersion = "3306";
 .formatVersion = 3;
-DisplayStrings = (
-"/_bucle.ascendente.h/_k.master kÁĂÂÄÀĀÅÃ
-kl/k.fina/l.fina/k.init/l.init/k.isol/l.isol/k.from.bottom/l.from.bottom/k.from.middle/l.from.middle/k.from.top/l.from.top/k.from.bottom.fina/l.from.bottom.fina/k.from.middle.fina/l.from.middle.fina/k.from.top.fina/l.from.top.fina/k.from.base.long/l.from.base.long/k.from.base.long.fina/l.from.base.long.fina 
-/_r.master rperri/_conect.from.base.long.to.i/_t.master tt/t.init/t.isol/t.from.bottom/t.from.middle/t.from.top/t.from.bottom.fina/t.from.middle.fina/t.from.top.fina/t.from.base.long/t.from.base.long.fina o/_s.master/_s.master.fina ss/s.fina/s.init/s.isol/s.from.bottom/s.from.middle/s.from.top/s.from.bottom.fina/s.from.middle.fina/s.from.top.fina/s.from.base.long/s.from.base.long.fina  "
-);
 axes = (
 {
 name = Color;
@@ -146587,7 +146582,7 @@ width = 103;
 {
 export = 0;
 glyphname = _c.master;
-lastChange = "2025-12-19 12:56:03 +0000";
+lastChange = "2025-12-23 09:00:38 +0000";
 layers = (
 {
 anchors = (
@@ -146597,7 +146592,7 @@ pos = (134,0);
 },
 {
 name = top;
-pos = (144,419);
+pos = (154,419);
 }
 );
 background = {
